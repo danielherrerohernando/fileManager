@@ -10,7 +10,7 @@ const getAllFiles = (dir, fileList = []) => {
   return fileList;
 };
 
-const getAllFilesByPattern = (type = /.*/, dir) =>
+const getAllFilesByPattern = (dir, type = /.*/) =>
   getAllFiles(dir).filter(fileName => type.test(fileName));
 
 module.exports = { getAllFilesByPattern };
