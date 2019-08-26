@@ -1,0 +1,19 @@
+{
+  "name": "@danielherrerohernando/filemanager",
+  "version": "2.0.0",
+  "description": "testing npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielherrerohernando/fileManager.git"
+  },
+  "author": "Daniel Herrero Hernando",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielherrerohernando/fileManager/issues"
+  },
+  "homepage": "https://github.com/danielherrerohernando/fileManager#readme"
+}
